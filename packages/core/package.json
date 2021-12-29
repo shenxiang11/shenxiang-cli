@@ -1,6 +1,6 @@
 {
   "name": "@shenxiang11/core",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "> TODO: description",
   "author": "Shen <863461783@qq.com>",
   "homepage": "",
@@ -23,7 +23,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@shenxiang11/utils": "^1.0.4"
+    "@shenxiang11/utils": "^1.0.5"
   },
   "gitHead": "793ca9d1f22dfbfe56db8bafaa37de0dc93b2cfa"
 }
